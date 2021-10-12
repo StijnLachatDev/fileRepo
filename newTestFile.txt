@@ -1,5 +1,0 @@
-Dit is een text file.
-
-Testen in mirth of ik dit kan lezen
-
-Version : 3.3.4
